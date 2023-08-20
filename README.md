@@ -1,8 +1,6 @@
 # CPU Based Ray Tracing
 
-## Demo Reel Video
-
-Work-in-progress... the video will be made public before the end of the CSC8599 module (22nd Agugust 2023).
+## [Demo Reel Video](https://vimeo.com/856136979?share=copy)
 
 ## Getting Started
 
